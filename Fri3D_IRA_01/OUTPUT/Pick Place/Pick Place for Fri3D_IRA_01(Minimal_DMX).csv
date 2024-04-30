@@ -1,0 +1,51 @@
+Altium Designer Pick and Place Locations
+C:\Users\Wim\SynologyDrive\Drive\Electronics\Fri3D_IRA_01\.\OUTPUT\Pick Place\Pick Place for Fri3D_IRA_01(Minimal_DMX).csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       01/06/22
+Time:       19:36
+Revision:   Not in VersionControl
+Variant:    Minimal_DMX
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description","Value"
+"P12","Header 3X2","TopLayer","HDR2X3_SMD","31.7000","55.3800","270","",""
+"U3","SN74AHCT1G125DCKR  Buffer, Tri-State, 4.5V to 5.5V","TopLayer","TI_DCK_R-PDSO-G5","16.5000","60.2000","90","=Description","SN74AHCT1G125DCKR"
+"D2","ZIRM-5042B-42-Z2 Infrared Receiver 38 kHz 45° 2.7-5.5V 940nm","TopLayer","CHAU_ZIRM-5042B-42-Z2","44.0000","31.2500","90","=Description","ZIRM-5042B-42-Z2"
+"P19","Easy to solder connection","TopLayer","SOLDER_SW_V_1MM","31.9450","50.3000","90","","NO BOM"
+"P17","Easy to solder connection","TopLayer","SOLDER_SW_V_1MM","31.9450","55.3800","90","","NO BOM"
+"P3","Header 4x2","TopLayer","HDR2X4","31.6900","54.1100","270","",""
+"P18","Easy to solder connection","TopLayer","SOLDER_SW_V_1MM","31.9450","52.8400","90","","NO BOM"
+"P11","Easy to solder connection","TopLayer","SOLDER_SW_V_1MM","31.9450","57.9200","90","","NO BOM"
+"P9","2 Way Screw HDR 5,08mm","TopLayer","TERM_BLK-0508-2-90","11.4600","18.0000","180","","PM5.08/2/90"
+"P8","2 Way Screw HDR 5,08mm","TopLayer","TERM_BLK-0508-2-90","26.2500","30.9600","270","","PM5.08/2/90"
+"R12","RESISTOR","TopLayer","R0603_N","55.2501","59.9999","270","","5K1"
+"R17","RESISTOR","TopLayer","R0603_N","56.7501","59.9999","270","","5K1"
+"R6","RESISTOR","TopLayer","R0603_N","52.2501","59.9999","270","","5K1"
+"R11","RESISTOR","TopLayer","R0603_N","53.7501","59.9999","270","","5K1"
+"R21","RESISTOR","TopLayer","R0603_N","26.3501","10.3501","0","","0R"
+"P16","Header 6","TopLayer","HDR1X6","53.0200","9.2000","180","",""
+"R19","RESISTOR","TopLayer","R1206","14.0000","56.0000","0","","120R"
+"P15","Header 2","TopLayer","HDR1X2","8.7700","56.0000","180","",""
+"P14","Easy to solder connection","TopLayer","SOLDER_SW_V_1MM","8.5000","56.0000","270","","NO BOM"
+"U6","3V3 LDO 700mA 50mV","TopLayer","SOT23-5","35.0000","22.2500","90","=Designator","XC6210B332MR"
+"U5","RS-485 5V Transceiver","TopLayer","SOIC_N_8","11.7500","61.7500","270","","MAX485ECSA+"
+"U2","SN74AHCT1G125DCKR  Buffer, Tri-State, 4.5V to 5.5V","TopLayer","TI_DCK_R-PDSO-G5","33.2500","31.7500","90","=Description","SN74AHCT1G125DCKR"
+"R16","RESISTOR","TopLayer","R0603_N","62.7499","8.4999","180","","1K2"
+"R13","RESISTOR","TopLayer","R0603_N","41.4999","37.0001","90","","1K2"
+"R7","RESISTOR","TopLayer","R0603_N","43.9999","37.0001","90","","5K1"
+"R2","RESISTOR","TopLayer","R0603_N","33.2499","33.7499","180","","1K2"
+"D10","Default 0805 Green LED","TopLayer","LED_0805_GR","66.2500","8.5000","180","=Description",""
+"D7","Default 0805 Green LED","TopLayer","LED_0805_GR","39.7500","36.7500","270","=Description",""
+"C19","CAP_CERAMIC","TopLayer","C0603_N","34.9999","25.2499","0","Capacitor Ceramic","1uF 16V"
+"C18","CAP_CERAMIC","TopLayer","C0603_N","34.9999","19.2499","0","Capacitor Ceramic","1uF 16V"
+"C7","","TopLayer","C0603_N","47.9999","32.7501","270","Capacitor Ceramic","100nF 16V"
+"C5","","TopLayer","C0603_N","16.2499","58.2499","0","Capacitor Ceramic","100nF 16V"
+"C2","","TopLayer","C0603_N","33.2499","29.7499","0","Capacitor Ceramic","100nF 16V"
+"C8","","TopLayer","C0603_N","55.0001","64.7499","90","Capacitor Ceramic","100nF 16V"
+"C9","","TopLayer","C0603_N","59.4999","59.4999","0","Capacitor Ceramic","100nF 16V"
+"C10","CAP_CERAMIC","TopLayer","C0805_N","59.5000","61.5000","0","Capacitor Ceramic","10uF 10V"
+"MOD1","ESP-32 based ESP-WROVER-32","TopLayer","ESP-WROVER-32","49.0790","48.5000","270","WiFi # MOD ESP-WROVER-32","ESP-WROVER-32"
+"R8","RESISTOR","TopLayer","R0603_N","56.5001","64.7499","270","","5K1"

@@ -1,0 +1,29 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Fri3D_IRA_01.PcbDoc   01/06/2022  19:35:48
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Fri3D_IRA_01-RoundHoles.TXT
+ASCII SlotHoles File : Fri3D_IRA_01-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             65        PTH        16.02inch (406.88mm)
+T2      24mil (0.6mm)                                             Slot              4         PTH        1.49inch (37.92mm)
+T3      35mil (0.9mm)                                             Round             39        PTH        10.88inch (276.39mm)
+T4      51mil (1.3mm)                                             Round             10        PTH        2.20inch (55.78mm)
+T5      98mil (2.5mm)                                             Round             2         PTH        0.23inch (5.88mm)
+T6      126mil (3.2mm)                                            Round             1         PTH        0.00inch (0.00mm)
+T7      26mil (0.65mm)                                            Round             2         NPTH       0.23inch (5.78mm)
+T8      118mil (3mm)                                              Round             4         NPTH       4.31inch (109.50mm)
+T9      126mil (3.2mm)                                            Round             4         NPTH       8.07inch (204.85mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              131
+
+Two holes at same point : 3
+-----------------------
+351,709
+551,709
+1033,1119
+
+Total Processing Time (hh:mm:ss) : 00:00:00

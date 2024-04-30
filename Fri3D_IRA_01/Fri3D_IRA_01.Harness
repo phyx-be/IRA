@@ -1,0 +1,2 @@
+I2C=SCL,SDA
+USB=D_n,D_p

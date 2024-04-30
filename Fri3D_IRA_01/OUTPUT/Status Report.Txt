@@ -1,0 +1,10 @@
+Output: PnP_DMX
+Type  : Pick Place
+From  : Variant [Minimal_DMX] of PCB Document [Fri3D_IRA_01.PcbDoc]
+   Generated File[Pick Place for Fri3D_IRA_01(Minimal_DMX).csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 19:36:11 On 01/06/2022
